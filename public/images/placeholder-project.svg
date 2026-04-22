@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <rect width="800" height="400" fill="#1a1a25"/>
+  <rect x="1" y="1" width="798" height="398" rx="12" stroke="#2a2a3a" stroke-width="2" fill="none"/>
+  <circle cx="400" cy="170" r="50" stroke="#00d4aa" stroke-width="2" fill="rgba(0,212,170,0.05)"/>
+  <path d="M380 170 L400 150 L420 170 L410 170 L410 190 L390 190 L390 170 Z" fill="#00d4aa" opacity="0.3"/>
+  <text x="400" y="250" text-anchor="middle" fill="#666680" font-family="sans-serif" font-size="14">Project Screenshot</text>
+  <text x="400" y="272" text-anchor="middle" fill="#444460" font-family="sans-serif" font-size="12">Replace with actual image</text>
+</svg>
