@@ -33,7 +33,7 @@ I work as a sales professional at Toyota Gatineau and I'm also a computer progra
 
 ```bash
 # clone the repo
-git clone https://github.com/xN0ro/portfolio-norayr.git
+git clone https://github.com/xN0ro/portfolio-Norayr.git
 cd portfolio-norayr
 
 # install dependencies
